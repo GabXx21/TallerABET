@@ -1,0 +1,8 @@
+
+Número de factura: 2
+Cliente: 1727580605 Gabriel Bustos
+Producto: cola 2 2.30
+Producto: goma 3 0.75
+Producto: esfero 5 0.40
+Fecha y hora: Sun Jan 21 03:45:57 2024
+Total: 8.85

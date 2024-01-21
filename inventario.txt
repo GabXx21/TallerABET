@@ -1,0 +1,6 @@
+cola 29 2.30
+papas 0 1.30
+goma 42 0.75
+Lapiz 15 0.35
+esfero 50 0.40
+papel 57 2.50
